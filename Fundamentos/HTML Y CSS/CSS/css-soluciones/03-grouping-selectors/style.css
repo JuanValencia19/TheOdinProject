@@ -1,0 +1,19 @@
+.button {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button.one {
+    background-color: black;
+    color: white;
+}
+
+.button.two {
+    background-color: yellow;
+}
